@@ -2,7 +2,8 @@ This is the text editor I made for Lab 7.
 I apologies in advance for the terrible code.
 
 to make or edit a file just:
-$ ```./editor filename```
+
+```./editor filename```
 
 Controls:
 - ARROW KEYS
